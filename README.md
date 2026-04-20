@@ -8,18 +8,18 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Bernardo Machado Ribeiro
+- Matricula: 1644321
+- Proposta de projeto escolhida: Biblioteca de jogos digitais
+- Breve descrição sobre seu projeto: Um site onde as pessoas poderão ver e compartilhar experiências sobre jogos jogador.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão Desktop](./public/img/versaodesktop.png)
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão Mobile](./public/img/versaomobile.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
